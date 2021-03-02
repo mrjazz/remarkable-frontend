@@ -1,0 +1,31 @@
+.article {
+    display: flex;    
+    flex-flow: row; 
+}
+.found {
+    background-color: orange;
+}
+.markdown {    
+    flex: 3 0 0;
+    min-width: 100px;
+}
+.refBtn {    
+    cursor: pointer;    
+    margin-top: 16px;    
+}
+.refTitle {
+    white-space: nowrap;
+    padding-left: 40px;
+    font-size: 16px;    
+}
+.refs {    
+    flex: 0 2;
+}
+.refs ul {
+    padding: 0px 0px 0px 30px;
+    margin: 0px;
+}
+.refs li {
+    list-style-type: square;  
+    font-size: 14px;
+}

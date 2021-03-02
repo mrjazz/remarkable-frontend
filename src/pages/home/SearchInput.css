@@ -1,0 +1,19 @@
+.searchIcon {
+    font-size: 1.3em;
+}
+.searchInput {
+    margin: 10px 0px 0px 10px;
+}
+.searchInput input {
+    width: 270px;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 4px;
+    border: 1px solid gray;
+}
+.iconBtn {
+    top:3px;
+    position: relative;
+    font-size: 1.2em;
+    cursor: pointer;
+}

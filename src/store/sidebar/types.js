@@ -1,0 +1,3 @@
+export const SEARCH_RESULT = "SEARCH_RESULT";
+export const SIDEBAR_CLOSE = "SIDEBAR_CLOSE";
+export const SIDEBAR_OPEN = "SIDEBAR_OPEN";

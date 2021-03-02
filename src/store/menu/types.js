@@ -1,0 +1,9 @@
+export const MENU_OPEN = "MENU_OPEN";
+export const MENU_CLOSE = "MENU_CLOSE";
+
+export const LOAD_ARTICLES = "LOAD_ARTICLES";
+export const LOAD_ARTICLE_START = "LOAD_ARTICLE_START";
+export const LOAD_ARTICLE_FINISH = "LOAD_ARTICLE_END";
+
+export const WIKILINKS_OPEN = "WIKILINKS_OPEN";
+export const WIKILINKS_CLOSE = "WIKILINKS_CLOSE";
